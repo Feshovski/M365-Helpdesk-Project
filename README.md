@@ -18,7 +18,7 @@ I created this project to demonstrate my proficiency in managing and troubleshoo
 
 ### 1. User Account Management
 - Created new users in the Microsoft 365 Admin Center, assigned appropriate roles and licenses.
-- [View details](user-account-management/task_1_create_user_accounts.md)
+- [View details](1-user-account-management/task_1_create_user_accounts.md)
 
 ### 2. Password Reset and User Access Troubleshooting
 - Resolved password-related issues and account lockouts for users.

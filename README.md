@@ -14,7 +14,7 @@ I created this project to demonstrate my proficiency in managing and troubleshoo
 - **User Documentation:** Created troubleshooting guides and user documentation for common issues.
 
 
-## Steps Performed
+## Tasks Performed
 
 ### 1. User Account Management
 - Created new users in the Microsoft 365 Admin Center, assigned appropriate roles and licenses.

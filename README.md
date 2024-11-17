@@ -17,11 +17,11 @@ I created this project to demonstrate my proficiency in managing and troubleshoo
 
 ### 2. Group Management
 - Managed security groups and distribution lists to control user access.
-- [View details](group-management/task_2_group_management.md)
+- [View details](https://github.com/Feshovski/M365-Helpdesk-Project/blob/main/2%20password-reset-troubleshooting/task_2_manage_microsoft_365_groups_and_teams)
 
 ### 3. Blocking Sign in for users
 - To ensure unauthorized or inactive users cannot access their Microsoft 365 accounts by blocking their sign-in capabilities.
-- [View details](group-management/task_3_Blocking_sign_in_for_users.md)
+- [View Details](https://github.com/Feshovski/M365-Helpdesk-Project/blob/main/8%20documentation/task_3_blocking_sign-in_for_users.md)
 - 
 ## Technologies Used
 

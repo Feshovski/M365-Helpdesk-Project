@@ -6,7 +6,7 @@ The goal of this task is to demonstrate the ability to create and manage user ac
 
 
 ## Steps Performed:
-1. Accessed the Microsoft 365 Admin Centre
+1. Access the Microsoft 365 Admin Centre
 2. Select "Users" on the top left
 3. Select "Add user" and enter the following details:
 	- Name:

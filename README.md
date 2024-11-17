@@ -60,5 +60,3 @@ I created this project to demonstrate my proficiency in managing and troubleshoo
 ## Conclusion
 
 This project demonstrates the core skills needed in a Microsoft 365 IT support role. It shows the ability to manage user accounts, resolve technical issues, and support end-users in a professional environment.
-
-Feel free to explore the individual tasks and guides in the repository for more details.

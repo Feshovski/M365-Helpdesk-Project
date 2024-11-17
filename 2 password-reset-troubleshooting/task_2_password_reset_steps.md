@@ -16,6 +16,3 @@ This will also create a SharePoint site for users to collaborate efficiently.
 Group and Microsoft Teams were created and are functional, providing them with a SharePoint site as well for efficient collaboration.
 
 ![image](https://github.com/user-attachments/assets/e5686cbf-8261-43b1-8733-1b1117fa643f)
-
-
-![image](https://github.com/user-attachments/assets/3ddc75d7-a0ff-413b-a002-b20dec385087)

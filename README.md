@@ -13,7 +13,7 @@ I created this project to demonstrate my proficiency in managing and troubleshoo
 
 ### 1. User Account Management
 - Created new users in the Microsoft 365 Admin Center, assigned appropriate roles and licenses.
-- [View details](https://github.com/Feshovski/M365-Helpdesk-Project/blob/main/1%20user-account-management/task_1_create_user_accounts.md)
+- [View details](https://github.com/Feshovski/M365-Helpdesk-Project/blob/main/task_1_user_account_management/task_1_create_user_accounts.md)
 
 ### 2. Group Management
 - Managed security groups and distribution lists to control user access.

@@ -1,6 +1,6 @@
 # Microsoft 365 Helpdesk Support Project
 
-I created this project to demonstrate my proficiency in managing and troubleshooting MIcrosoft 365 environments related to an IT Support or Helpdesk role.
+I created this project to demonstrate my proficiency in managing and troubleshooting Microsoft 365 environments related to an IT Support or Helpdesk role.
 
 ## Project Overview
 
